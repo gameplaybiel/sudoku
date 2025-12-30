@@ -17,6 +17,9 @@ O projeto está dividido em pacotes organizados por responsabilidade:
 - `ui.custom`: Componentes visuais personalizados (botões, painéis, inputs e frames).
 - `util`: Classes utilitárias, como o BoardTemplate para renderização no console.
 
+## Imagem do desafio
+![img.png](img.png)
+
 ## Como eu enfrentei o desafio?
 ### 1. Precisão de Design (CLI)
 Um dos maiores desafios foi garantir a simetria do tabuleiro no terminal. O problema de desalinhamento foi resolvido garantindo que cada célula tivesse um tamanho fixo, tratando valores vazios como espaços " " para manter a integridade visual da grade.
